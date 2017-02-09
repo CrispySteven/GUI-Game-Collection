@@ -1,1 +1,1 @@
-# GUI-Game-Collection
+# cs245-project
